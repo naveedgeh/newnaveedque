@@ -1,6 +1,6 @@
 @extends('frontend.layout.masterlayout')
 @section('Title')
-    About    
+    About   Us
 @endsection
 
 @section('mainbody')
